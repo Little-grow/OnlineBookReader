@@ -1,0 +1,27 @@
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.csproj.AssemblyReference.cache
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.AssemblyInfoInputs.cache
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.AssemblyInfo.cs
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.csproj.CoreCompileInputs.cache
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.exe
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.dll.config
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.deps.json
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.runtimeconfig.json
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Online Book Reader.pdb
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\OOP c# projects\Online Book Reader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.csproj.CopyComplete
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.dll
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\refint\Online Book Reader.dll
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.pdb
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\Online Book Reader.genruntimeconfig.cache
+D:\OOP c# projects\Online Book Reader\obj\Debug\net6.0\ref\Online Book Reader.dll
